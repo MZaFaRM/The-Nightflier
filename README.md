@@ -11,16 +11,16 @@ Instructions:
 
 Credits:
 
-Sprites:
-Parallax Background | Enemy spaceships | Explosion
+* Sprites:
+  * Parallax Background | Enemy spaceships | Explosion: 
 https://ansimuz.itch.io/
 
-Space Ship
+  * Space Ship: 
 https://www.deviantart.com/tk88mangaka/art/Spaceship-Pixel-Art-626731441
 
-Sounds: 
+* Sounds: 
 https://opengameart.org/content/background-rumble-noise
 https://ansimuz.itch.io/
 
-Music:
+* Music:
 https://opengameart.org/content/space-music-3
