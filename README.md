@@ -3,11 +3,11 @@ A short game I recently created for CS50
 
 Instructions:
 
-*Click to Shoot
-*Shoot to Move
-*Shoot Enemy Spacecrafts (Yellow ones)
-*Protect your ship until the timer runs out
-*Escape.
+* Click to Shoot
+* Shoot to Move
+* Shoot Enemy Spacecrafts (Yellow ones)
+* Protect your ship until the timer runs out
+* Escape.
 
 Credits:
 
