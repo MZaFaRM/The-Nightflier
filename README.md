@@ -9,6 +9,8 @@ Instructions:
 * Protect your ship until the timer runs out
 * Escape.
 
+Play the game from : https://mzafarm.github.io/The-Nightflier/
+
 Credits:
 
 * Sprites:
